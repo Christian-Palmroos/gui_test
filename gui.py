@@ -1,3 +1,4 @@
+#!/home/chospa/anaconda3/bin/python
 
 import os
 import tkinter
